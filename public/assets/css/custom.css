@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'pkAngThonk';
+    src: url('../font/PK\ Ang\ Thong\ Medium.ttf');
+}
+
+body
+    {
+        /*font-family: 'IBM Plex Sans Thai', sans-serif */
+        font-family: 'pkAngThonk',sans-serif;
+    }
+    .mynav{
+        background-color: blueviolet;
+    }
